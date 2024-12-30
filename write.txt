@@ -1,0 +1,33 @@
+1. if no folder is selected --> display the FilePicker Component and display a message, no folder selected
+2. Once folder is selected, display all the databases 
+3. if a database is clicked display all the tables associated with it, else display no tables
+4. if for a table if check schema is selected, show the schema for it
+5. if we click from one database to another display the associated tables
+6. if we click from one table to another, show the associated properties of that table.
+7. After creating the database, rerender the database list to display the updated database list
+8. After creating new table, rerender the table list to display the updated tables.
+9. After deleting the database, rerender the database list to display the updated databases
+10. After deleting the table, rerender the tables list to display the updated tables.
+11. other functionality, keep the same.
+12. display proper loading state
+13. do not change any logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
